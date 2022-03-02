@@ -97,7 +97,7 @@ color: aliceblue;}
     transition: 3s;
     }
 body{
-    background-color: rgb(174, 119, 238);
+    background: linear-gradient(45deg, #fff1eb, #ace0f9);
 }
 .next{
     height: 1px;
